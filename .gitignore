@@ -6,3 +6,5 @@ __pycache__/
 
 sentiment_model/
 training.1600000.processed.noemoticon.csv
+sentiment_model/pytorch_model.bin
+training.1600000.processed.noemoticon.csv
