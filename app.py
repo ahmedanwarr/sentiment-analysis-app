@@ -3,7 +3,7 @@ from transformers import pipeline
 
 # Load the sentiment analysis model
 
-sentiment_pipeline = pipeline("text-classification", model="./sentiment_model", tokenizer="./sentiment_model")
+sentiment_pipeline = pipeline("text-classification", model="/workspaces/sentiment-analysis-app/sentiment_model", tokenizer="/workspaces/sentiment-analysis-app/sentiment_model")
 
 # Streamlit App
 
