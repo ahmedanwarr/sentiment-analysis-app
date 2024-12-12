@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-
-=======
-venv/
->>>>>>> c3dbc3df65dbbcf30d7a44b42e60187d157b9031
 # Ignore Python cache files
 __pycache__/
 *.pyc
 *.pyo
 
-sentiment_model/
+# sentiment_model/
 training.1600000.processed.noemoticon.csv
-<<<<<<< HEAD
 venv/
-=======
-sentiment_model/pytorch_model.bin
-training.1600000.processed.noemoticon.csv
->>>>>>> c3dbc3df65dbbcf30d7a44b42e60187d157b9031
